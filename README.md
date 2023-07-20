@@ -6,7 +6,7 @@
 &emsp;♦ MapGroupPos is poluted with _`bldr | vbldr | StacitObj`_ classes objects.  
 &emsp;&emsp;♠ Few of `Land` class objects do not spawn loot whatsoever (Land_underground_exit, etc.)  
   
-&emsp;♦ Eastern hillside has still some darkness leaks  
+&emsp;♦ Eastern hillside has still some darkness leakage to the outside  
 
 &emsp;♦ Northern Witch's Cave exit has some oddly behaving lightning transitions (possible future fix)  
 
