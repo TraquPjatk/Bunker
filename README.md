@@ -4,9 +4,9 @@
 &emsp;♦ Message me if noticed any lightning bugs on discord: **Traqu**  
   
 &emsp;♦ MapGroupPos is poluted with _`bldr | vbldr | StacitObj`_ classes objects.  
-&emsp;&emsp;♠ Few of Land class objects do not spawn loot whatsoever (Land_underground_exit, etc.)  
+&emsp;&emsp;♠ Few of `Land` class objects do not spawn loot whatsoever (Land_underground_exit, etc.)  
   
-&emsp;♦ Eastern / oceanSide outer rock slope has still some darkness leaks  
+&emsp;♦ Eastern hillside has still some darkness leaks  
 
 &emsp;♦ Northern Witch's Cave exit has some oddly behaving lightning transitions (possible future fix)  
 
