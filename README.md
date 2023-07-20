@@ -15,6 +15,10 @@
 &emsp;&emsp;&emsp;a player goes there during the night and actively uses NVGs.   
 &emsp;&emsp;&emsp;♠ I am not going to fix this.  
 
+&emsp;Map has many items of `Land_Roadblock_Table` & `Land_Roadblock_WoodenCrate` classes.  
+&emsp;&emsp;I strongly advise - assigning loot spawns to them, as they do on Livonia.  
+&emsp;&emsp;Do not spawn there meds though...
+
 &emsp;♦ There are 9 book props hidden around the location. (possible prop hunt event)  
 &emsp;&emsp;♦ Books names:  
 &emsp;&emsp;&emsp;• The Bible  
@@ -26,3 +30,7 @@
 &emsp;&emsp;&emsp;• Crime and Punishment  
 &emsp;&emsp;&emsp;• Robinson Crusoe  
 &emsp;&emsp;&emsp;• The Call of Cthulhu
+
+&emsp;♥If you want to use my work, please ask me for permission in a private message.  
+&emsp;♥Do not distribute the repository link without consulting me.  
+&emsp;♥I do not agree to make any changes to the files without prior consultation with me.  
