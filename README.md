@@ -36,4 +36,4 @@
 &emsp;❗ Do not distribute the repository link without consulting me. ❗  
 
 &emsp;❗ I do not agree to make any self-made changes to the files without prior consultation with me. ❗  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;↑ <ins>_Does not apply to deletion of objects_ </ins>↑
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;↑ <ins>_Does not apply to deletion of objects_</ins>↑
