@@ -31,8 +31,10 @@
 &emsp;&emsp;&emsp;• Robinson Crusoe  
 &emsp;&emsp;&emsp;• The Call of Cthulhu
 
-<div style="background-color: #f2f2f2; padding: 10px;">
 &emsp;♥ If you want to use my work, please ask me for permission in a private message.  
 &emsp;♥ Do not distribute the repository link without consulting me.  
 &emsp;♥ I do not agree to make any changes to the files without prior consultation with me.  
-</div>
+
+<font color="red">Tekst na czerwono</font>
+
+
