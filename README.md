@@ -10,8 +10,9 @@
 
 &emsp;♦ Northern Witch's Cave exit has some oddly behaving lightning transitions (possible future fix)  
 
-&emsp;♦ Witch's Cave has a bug causing NVGs to behave as if they were being used during a daylight. Since the lightning level there is moderate, &emsp;&emsp;it might cause troubles only if a players goes there during the night and actively uses NVGs.   
-&emsp;&emsp;♠ I am not going to fix this.  
+&emsp;♦ Witch's Cave has a bug causing NVGs to behave as if they were being used during a daylight. Since the lightning level there is moderate, 
+&emsp;&emsp;&emsp;it might cause troubles only if a players goes there during the night and actively uses NVGs.   
+&emsp;&emsp;&emsp;♠ I am not going to fix this.  
 
 &emsp;♦ There are 9 book props hidden around the location. (possible prop hunt event)  
 &emsp;&emsp;♦ Books names:  
