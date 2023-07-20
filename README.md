@@ -3,7 +3,7 @@
 
 &emsp;♦ Message me if noticed any lightning bugs on discord: **Traqu**  
   
-&emsp;♦ ~~MapGroupPos is poluted with _`bldr | vbldr | StacitObj`_ classes objects.~~&emsp;&emsp;_fixed_  
+&emsp;♦ ~~MapGroupPos is poluted with _`bldr | vbldr | StacitObj`_ classes objects.~~&emsp;&emsp;**_(fixed)_**  
 &emsp;&emsp;♠ Few of `Land` class objects do not spawn loot whatsoever (Land_underground_exit, etc.)  
   
 &emsp;♦ Eastern hillside has still some darkness leakage to the outside  
