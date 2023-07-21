@@ -34,6 +34,8 @@
 &emsp;&emsp;&emsp;• Robinson Crusoe  
 &emsp;&emsp;&emsp;• The Call of Cthulhu
 
+_______________________________________________________________________________________________________________  
+
 &emsp;❗ If you want to use my work, please ask me for permission in a private message. ❗  
 
 &emsp;❗ Do not distribute the repository link without consulting me. ❗  
