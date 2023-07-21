@@ -563,7 +563,7 @@
 		{ 	
 			"Position": [13706.989258, 56.579449, 3366.492676],
 			"Orientation": [63.29, 0, 0],
-			"Size": [20, 30, 100],
+			"Size": [20, 30, 60],
 			"EyeAccommodation": 1,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1
