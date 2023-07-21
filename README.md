@@ -14,6 +14,7 @@
 &emsp;&emsp;&emsp;Since the lightning level there is moderate, it might cause troubles only if  
 &emsp;&emsp;&emsp;a player goes there during the night and actively uses NVGs.   
 &emsp;&emsp;&emsp;♠ I am not going to fix this.  
+&emsp;&emsp;&emsp;♠ This has not happened on one of the two servers than ran it.  
 
 &emsp;♦ Map has many items of `Land_Roadblock_Table` & `Land_Roadblock_WoodenCrate` classes.  
 &emsp;&emsp;I strongly advise - assigning loot spawns to them, as they do on Livonia.  
