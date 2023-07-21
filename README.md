@@ -15,9 +15,11 @@
 &emsp;&emsp;&emsp;a player goes there during the night and actively uses NVGs.   
 &emsp;&emsp;&emsp;♠ I am not going to fix this.  
 
-&emsp;Map has many items of `Land_Roadblock_Table` & `Land_Roadblock_WoodenCrate` classes.  
+&emsp;♦ Map has many items of `Land_Roadblock_Table` & `Land_Roadblock_WoodenCrate` classes.  
 &emsp;&emsp;I strongly advise - assigning loot spawns to them, as they do on Livonia.  
-&emsp;&emsp;Do not spawn there meds though...
+&emsp;&emsp;Do not spawn there meds though...  
+
+&emsp;♦ The project is FPS greedy, easily cutting them in half.  
 
 &emsp;♦ There are 9 book props hidden around the location. (possible prop hunt event)  
 &emsp;&emsp;♦ Books names:  
