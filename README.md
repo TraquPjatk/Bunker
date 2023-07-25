@@ -1,7 +1,7 @@
 # Bunker
 ***DayZ custom location - Created by Traqu***
 
-&emsp;♦ Message me if noticed any lightning bugs on discord: **Traqu**  
+&emsp;♦ Message me if noticed any lightning bugs (or other) on discord: **Traqu**  
   
 &emsp;♦ ~~MapGroupPos is poluted with _`bldr | vbldr | StacitObj`_ classes objects.~~&emsp;**_(fixed)_**  
 &emsp;&emsp;❗ ❗ ❗ Few of `Land` class objects do not spawn loot whatsoever (Land_underground_exit, etc.) ❗ ❗ ❗  
@@ -37,6 +37,8 @@
 _______________________________________________________________________________________________________________  
 
 &emsp;❗ If you want to use my work, please ask me for permission in a private message. ❗  
+
+&emsp;❗ If you are already using my work, tag me on your discord server in appropriate section. ❗  
 
 &emsp;❗ Do not distribute the repository link without consulting me. ❗  
 
