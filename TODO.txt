@@ -2,6 +2,6 @@ Usunąć 2 breadCrumbsy z 34 do MAX 32 - na wejściu.
 
 Usunąć (zmniejszyć) jasny trigger który zahacza o pokój z lewej strony korytarza
 
-Usunąć nadmiar skał i zastąpić przeskalowanymi
+Usunąć nadmiar skał i zastąpić przeskalowanymi (ewentualnie, np. w jaskini - dodać przeskalowany dirt pile, który będzie płaski po przeskalowaniu)
 
 Poprawić dark triggery wypływające na zewnątrz
